@@ -1,4 +1,3 @@
-using System.Data.SQLite;
 using FileFlows.Server.Database.Managers;
 using FileFlows.Shared.Models;
 using Microsoft.Data.SqlClient;
